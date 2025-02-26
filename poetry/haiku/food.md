@@ -183,6 +183,14 @@ shells crack open, secrets told
 rich flavours unfold
 ```
 
+## pistachio
+
+```
+crack the shell open
+hidden emerald within
+a taste soft and sweet
+```
+
 ## sourdough september
 
 ```
