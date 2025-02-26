@@ -1,6 +1,11 @@
+---
+modified: 2025-02-26
+created: 2025-02-26
+---
+
 # food
 
-a haiku collection about food. don't read when hungry.
+_a haiku collection about food. don't read when hungry!_
 
 ## avocado
 

@@ -1,6 +1,10 @@
+---
+modified: 2025-02-26
+created: 2025-02-26
+---
 # animals
 
-a haiku collection about animals
+_a haiku collection about animals_
 
 ## 🦙 alpaca
 

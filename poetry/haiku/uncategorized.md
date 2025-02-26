@@ -1,6 +1,10 @@
+---
+modified: 2025-02-26
+created: 2025-02-26
+---
 # uncategorized
 
-a haiku collection about uncategorized and general subjects.
+_a haiku collection about uncategorized and general subjects_
 
 ## alteryia
 

@@ -1,6 +1,10 @@
+---
+modified: 2025-02-26
+created: 2025-02-26
+---
 # fading seasons
 
-a haiku collection about fading seasons
+_a haiku collection about fading seasons_
 
 ## spring sorrow
 

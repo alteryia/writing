@@ -1,6 +1,10 @@
+---
+modified: 2025-02-26
+created: 2025-02-26
+---
 # seasonal celebrations
 
-a haiku collection about seasonal and yearly celebrations
+_a haiku collection about seasonal and yearly celebrations_
 
 ## new year's day
 

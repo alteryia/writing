@@ -1,6 +1,10 @@
+---
+modified: 2025-02-26
+created: 2025-02-26
+---
 # dawn
 
-a haiku collection about dawn, mornings, and more
+_a haiku collection about dawn, mornings, and more_
 
 ## birds chirping
 

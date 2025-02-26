@@ -1,6 +1,11 @@
+---
+modified: 2025-02-26
+created: 2025-02-26
+---
+
 # politics
 
-a haiku collection about politics
+_a haiku collection about politics_
 
 ## activism
 
@@ -50,7 +55,7 @@ yet bridges form through the noise
 unity takes root
 ```
 
-## democracy vs authoritarianism
+## democracy vs dictatorship
 
 ```
 freedom fights for light

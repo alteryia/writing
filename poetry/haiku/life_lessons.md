@@ -1,6 +1,10 @@
+---
+modified: 2025-02-26
+created: 2025-02-26
+---
 # life lessons
 
-a haiku collection about life lessons
+_a haiku collection about life lessons_
 
 ## balance
 

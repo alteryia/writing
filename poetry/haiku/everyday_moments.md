@@ -1,6 +1,10 @@
+---
+modified: 2025-02-26
+created: 2025-02-26
+---
 # everyday moments
 
-a haiku collection about everyday moments
+_a haiku collection about everyday moments_
 
 ## ambitions at rest
 

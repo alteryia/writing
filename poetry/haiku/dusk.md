@@ -1,6 +1,10 @@
+---
+modified: 2025-02-26
+created: 2025-02-26
+---
 # dusk
 
-a haiku collection about dusk and nocturnal events
+_a haiku collection about dusk and nocturnal events_
 
 ## canvas of dreams
 

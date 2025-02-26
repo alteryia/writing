@@ -1,6 +1,10 @@
+---
+modified: 2025-02-26
+created: 2025-02-26
+---
 # nature
 
-a haiku collection about nature
+_a haiku collection about nature_
 
 ## azure sky
 

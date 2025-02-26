@@ -1,6 +1,10 @@
+---
+modified: 2025-02-26
+created: 2025-02-26
+---
 # aquatic
 
-a haiku collection about aquatic environments and bodies of water
+_a haiku collection about aquatic environments and bodies of water_
 
 ## coves
 
@@ -53,12 +57,12 @@ i rest in the hills
 mirror the sky with stillness
 yet never reach sea
 
-still waters reflect  
-the sky's changing hues at dusk  
+still waters reflect
+the sky's changing hues at dusk
 peace within the depths
 
-lakes hold ancient tales  
-ripples dance on silent shores  
+lakes hold ancient tales
+ripples dance on silent shores
 secrets beneath waves
 ```
 

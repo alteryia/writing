@@ -1,6 +1,10 @@
+---
+modified: 2025-02-26
+created: 2025-02-26
+---
 # manga
 
-a haiku collection about manga and anime
+_a haiku collection about manga and anime_
 
 ## aria
 

@@ -1,6 +1,10 @@
+---
+modified: 2025-02-26
+created: 2025-02-26
+---
 # gaming
 
-a haiku collection about games
+_a haiku collection about games_
 
 ## astroneer
 

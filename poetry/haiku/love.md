@@ -1,6 +1,10 @@
+---
+modified: 2025-02-26
+created: 2025-02-26
+---
 # love
 
-a haiku collection about love
+_a haiku collection about love_
 
 ## star crossed
 

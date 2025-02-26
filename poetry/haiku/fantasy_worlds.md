@@ -1,6 +1,19 @@
+---
+modified: 2025-02-26
+created: 2025-02-26
+---
+
 # fantasy worlds
 
-a haiku collection set in a fantasy world
+_a haiku collection set in a fantasy world_
+
+## alteryia
+
+```
+glimmering cities
+crystal seas, lush mountains rise
+alteryia calls
+```
 
 ## fate
 

@@ -1,6 +1,10 @@
+---
+modified: 2025-02-26
+created: 2025-02-26
+---
 # library
 
-a haiku collection about books, writing, and more
+_a haiku collection about books, writing, and more_
 
 ## autosave
 
