@@ -2,6 +2,7 @@
 modified: 2025-02-26
 created: 2025-02-26
 ---
+
 # everyday moments
 
 _a haiku collection about everyday moments_
@@ -80,38 +81,6 @@ in just a few days
 silver loops connect
 binding papers together
 order in chaos
-```
-
-## piano
-
-```
-monochromatic
-yet sparking melodic joy
-keys without a lock
-```
-
-## puddles
-
-```
-rainy day dance-off
-puddle jumping, soggy shoes
-splashy victory!
-```
-
-## raindrops
-
-```
-raindrops on the roof
-tiny drummers out of sync
-a scattered rhythm
-```
-
-## rainy
-
-```
-rain's sudden downpour
-forgot my umbrella - oops
-now i'm a wet mop
 ```
 
 ## small talk
