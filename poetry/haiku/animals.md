@@ -46,9 +46,9 @@ a quiet hello
 ## 😸 cat 🐈
 
 ```
-quick, while the cat naps
-sneak the snacks from the top shelf
-caught with crumbs in hand
+by the windowsill
+staring like she owns the world
+tail flicks, full of pride
 
 whiskers twitching fast
 laser dot is now the foe
@@ -57,6 +57,10 @@ victory! nap time
 cat dozes, content
 clouds drifting lazily by
 with grey misty dreams
+
+quick, while the cat naps
+sneak the snacks from the top shelf
+caught with crumbs in hand
 ```
 
 ## 🐮 cow 🐄

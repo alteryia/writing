@@ -2,6 +2,7 @@
 modified: 2025-02-26
 created: 2025-02-26
 ---
+
 # love
 
 _a haiku collection about love_
@@ -28,6 +29,14 @@ youthful hearts collide
 syncopated sparks
 electric touch, i'm reeling
 caught in your orbit
+```
+
+## gaze
+
+```
+there's a certain thrill
+in your eyes, i find my high
+drowning in your gaze
 ```
 
 ## desire
@@ -60,6 +69,14 @@ together we rise
 bright eyes, bursting bright
 moments shared in careless cheer
 hearts as light as air
+```
+
+## choice
+
+```
+a hand held in trust
+the right choice feels soft, steady
+heart's compass at rest
 ```
 
 ## vow
@@ -134,6 +151,14 @@ splintered by unspoken words
 time grieves in stillness
 ```
 
+## pretend
+
+```
+pure inked emotions
+pretending the pain away
+of a love withdrawn
+```
+
 ## loss
 
 ```
@@ -148,6 +173,14 @@ finding peace in loss
 as we watch the flames
 bystanders to our own love
 silent as we fall
+```
+
+## small talk
+
+```
+connections revived
+small talk drifts like autumn leaves
+fleeting, yet it clings
 ```
 
 ## the one that got away

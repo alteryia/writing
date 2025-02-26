@@ -2,6 +2,7 @@
 modified: 2025-02-26
 created: 2025-02-26
 ---
+
 # city life
 
 _a haiku collection about city life_
@@ -157,6 +158,10 @@ steel carries us home
 ## tourists
 
 ```
+cameras and maps
+wandering through the unknown
+of the cityscape
+
 dreamy eyed tourists
 captivated by the glow
 new worlds to explore

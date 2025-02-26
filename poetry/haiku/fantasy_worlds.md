@@ -20,7 +20,15 @@ alteryia calls
 ```
 in the end, we're bound
 to the timeless pull of fate
-unforeseen forces
+and unseen forces
+```
+
+## fury and fear
+
+```
+fear dances nearby
+colourful and chaotic
+fury stains the ground
 ```
 
 ## the alchemical culinarian
@@ -261,6 +269,14 @@ stars fade in its depths
 pale beneath the moon
 covenant in astral glow
 timeless oaths endure
+```
+
+## the throne of sins
+
+```
+claimed the sinner's throne
+as she grins with devlish glee
+death obeys her call
 ```
 
 ## the veil of midnight

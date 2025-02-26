@@ -2,17 +2,10 @@
 modified: 2025-02-26
 created: 2025-02-26
 ---
+
 # library
 
-_a haiku collection about books, writing, and more_
-
-## autosave
-
-```
-finally finished
-my masterpiece manuscript
-where was autosave?
-```
+_a haiku collection about books and reading_
 
 ## bibliophile
 
@@ -102,14 +95,6 @@ where ancient voices linger
 reality fades
 ```
 
-## manuscript
-
-```
-ink upon parchment
-seals of wisdom bound in time
-pages wear the past
-```
-
 ## parchment
 
 ```
@@ -118,36 +103,12 @@ tales of yore in veins concealed
 dust of ages stir
 ```
 
-## poems
-
-```
-verses carve the mind
-spilled inked secrets of the soul
-timeless thoughts entwined
-```
-
 ## procrastination
 
 ```
 work stacked to the sky
 thick plots whisper "just one more"
 procrastination
-```
-
-## quill
-
-```
-feathers dipped in ink
-ancient scripts on parchment bare
-history preserved
-```
-
-## soul script
-
-```
-soul script, parchment hearts
-fingers tremble, ink spills truth
-scars carved by secrets
 ```
 
 ## tales
@@ -184,20 +145,4 @@ the weight of wisdom
 stacks of unread stories
 i swear i'll read them someday
 oops, i bought more books
-```
-
-## words
-
-```
-ignited stories
-words weaved by restless hands
-a world born from ink
-```
-
-## writing
-
-```
-inked emotions spill
-thoughts entwined in vivid hues
-canvas of the mind
 ```

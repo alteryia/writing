@@ -2,6 +2,7 @@
 modified: 2025-02-26
 created: 2025-02-26
 ---
+
 # life lessons
 
 _a haiku collection about life lessons_
@@ -46,12 +47,16 @@ joy blooms where we least expect
 grace in every day
 ```
 
-## growth
+## growth / change
 
 ```
 leaves fall, roots remain
 seasons teach the art of change
 growth blooms through the years
+
+old forms break apart
+new paths carved in changing lands
+growth beyond the now
 ```
 
 ## health
@@ -84,6 +89,14 @@ it happens to you
 stumbles mark the path
 each fall shapes the road ahead
 wisdom grows through pain
+```
+
+## path
+
+```
+the right path whispers
+clear and bright, the stars align
+certainty in sight
 ```
 
 ## patience
@@ -148,4 +161,8 @@ stillness follows rain
 surround yourself right
 those who lift you when you're low
 keep good vibes around
+
+with steady backing
+fueling every step ahead
+lifting you to win
 ```

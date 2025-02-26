@@ -5,7 +5,7 @@ created: 2025-02-26
 
 # uncategorized
 
-_a haiku collection about uncategorized and general subjects_
+_a haiku collection about uncategorized and general subjects. may be moved to other collections_
 
 ## alteryia
 
@@ -15,18 +15,30 @@ because it sounded pretty
 it's: al-tery-ia
 ```
 
-## serene cuts
+## home
 
 ```
-edges fine and keen
-through silence, it cleaves unseen
-sharp, simple, serene
+footsteps left behind
+forking roads and silent signs
+which way leads me home?
 ```
 
-## subject
+## next
 
 ```
-framed in golden light
-the subject stands, still and proud
-frozen in a gaze
+
+```
+
+## next
+
+```
+
+
+```
+
+## next
+
+```
+
+
 ```
