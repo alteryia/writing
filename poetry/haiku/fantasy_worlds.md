@@ -31,6 +31,14 @@ colourful and chaotic
 fury stains the ground
 ```
 
+## of steel and sorcery
+
+```
+soundless truths arise
+magic and steel intertwine
+defy mortal plight
+```
+
 ## the alchemical culinarian
 
 ```
@@ -69,6 +77,14 @@ slicing through the void
 wails of endless grief
 sorrow weaves her spectral crown
 death bends to the queen
+```
+
+## the chaotic grin
+
+```
+in the heart of storms
+she rises amidst the flames
+grinning through chaos
 ```
 
 ## the crystal enchantress
@@ -183,6 +199,14 @@ guardian remains alone
 fate rests in their hands
 ```
 
+## the mastermind's ascent
+
+```
+through the clash of blades
+strategist of war and death
+chaos bows to him
+```
+
 ## the paladin's paradox
 
 ```
@@ -221,6 +245,14 @@ strength within each thorn
 mystic runes humming
 a requiem for lost souls
 heralds of death wait
+```
+
+## the secrets beneath
+
+```
+beneath crumbled pillars
+ancient ruins hide their truth
+buried in the dust
 ```
 
 ## the serenity seeker

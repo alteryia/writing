@@ -2,6 +2,7 @@
 modified: 2025-02-26
 created: 2025-02-26
 ---
+
 # dusk
 
 _a haiku collection about dusk and nocturnal events_
@@ -132,6 +133,14 @@ mysteries remain
 whispers in the dark
 silent truths lie in wait, veiled
 secrets softly fade
+```
+
+## stars
+
+```
+shadows cast their reign
+flickers in the depths of night
+wish upon a star
 ```
 
 ## tranquility

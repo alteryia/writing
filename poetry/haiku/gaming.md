@@ -2,6 +2,7 @@
 modified: 2025-02-26
 created: 2025-02-26
 ---
+
 # gaming
 
 _a haiku collection about games_
@@ -276,6 +277,14 @@ witcher's oath remains
 pixelated realms
 through digital dimensions
 alt reality
+
+reality fades
+immersed in wide endless realms
+a mind set free soars
+
+virtual voyages call
+far beyond what you know to
+create your own world
 ```
 
 ## valheim
