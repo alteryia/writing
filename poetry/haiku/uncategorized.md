@@ -1,5 +1,5 @@
 ---
-modified: 2025-02-26
+modified: 2025-04-07
 created: 2025-02-26
 ---
 
@@ -12,7 +12,7 @@ _a haiku collection about uncategorized and general subjects. may be moved to ot
 ```
 i made up this name
 because it sounded pretty
-it's: al-tery-ia
+it's: al-te-ry-ia
 ```
 
 ## home

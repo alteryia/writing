@@ -1,5 +1,5 @@
 ---
-modified: 2025-02-26
+modified: 2025-04-07
 created: 2025-02-26
 ---
 
@@ -29,6 +29,14 @@ breathe, and let it go
 fear stands in my path
 step by step, i move ahead
 courage leads the way
+```
+
+## fate
+
+```
+in the end, we're bound
+to the timeless pull of fate
+and unseen forces
 ```
 
 ## forgiveness
